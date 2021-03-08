@@ -1,9 +1,9 @@
 # Liftoff-Git-Practice
 
-###Mentor
+### Mentor
 
 
-###Students
+### Students
 1. Anna
 2. Anya
 3. Casey
