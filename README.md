@@ -8,4 +8,4 @@ Carrie Jones
 2. Anya Wynne
 3. Casey Gardonio-Foat
 4. Chandler
-5. Tara
+5. Tara Kotthoff
