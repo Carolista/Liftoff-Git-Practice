@@ -7,5 +7,5 @@
 1. Anna
 2. Anya
 3. Casey
-4. Chandler
+4. Chandler EuBank
 5. Tara
